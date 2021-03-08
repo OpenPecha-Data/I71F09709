@@ -4,4 +4,9 @@ source_metadata:
   id: bdr:W30137
   title: རྒྱུད་བཞི ༼ཟུང་ཅུ་ཟེའི་པར་མ༽
   author: ''
-  volumes: {}
+  volumes:
+    44075a3aec1c4498bc2d11221692cde0:
+      image_group_id: I5910
+      title: ''
+      volume_number: 1
+      total_pages: 808
